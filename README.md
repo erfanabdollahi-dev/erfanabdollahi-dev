@@ -7,12 +7,12 @@
 📚 I’m passionate about **learning new technologies** and improving my **skills**  
 ⚡ I enjoy creating **efficient, real-world solutions** that make an **impact**  
 
----
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=erfanabdollahi-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
----
+
 
 ## </> Tech Stack
 
@@ -36,14 +36,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=swagger&logoColor=white)  
 
----
 
 ## 🌱 Currently Learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![WebSockets](https://img.shields.io/badge/WebSockets-007ACC?style=flat-square&logo=websocket&logoColor=white) 
 ![Optimization](https://img.shields.io/badge/Optimization-FFD700?style=flat-square&logo=performance&logoColor=black)  
 
----
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erfanabdollahi-dev&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)

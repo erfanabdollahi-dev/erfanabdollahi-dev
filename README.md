@@ -2,8 +2,8 @@
 
 **Full-Stack Developer** & **Embedded Systems Enthusiast**  
 
-💻 I build **web applications** with **Python**, **Django**, and **JavaScript**  
-🛠️ I program **STM32 microcontrollers** at the **register level** for **embedded projects**  
+💻 I build **web applications** with  **Django DRF**, and **React**  
+🛠️ I like programing **microcontrollers** and creating **embedded projects**  
 📚 I’m passionate about **learning new technologies** and improving my **skills**  
 ⚡ I enjoy creating **efficient, real-world solutions** that make an **impact**  
 
